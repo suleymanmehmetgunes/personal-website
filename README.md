@@ -1,8 +1,36 @@
-# React + Vite
+# Personal Website - Resume
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Edited by Süleyman Mehmet Güneş
 
-Currently, two official plugins are available:
+SOURCES AND CREDITS:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fonts: 
+<ul>
+  <li>
+    Open Sans (https://fonts.google.com/specimen/Open+Sans)
+  </li>
+  <li>
+    Libre Baskerville (https://fonts.google.com/specimen/Libre+Baskerville)
+  </li>
+</ul>
+
+Icons: 
+<ul>
+  <li>
+    React Icons (https://react-icons.github.io/react-icons/)
+  </li>
+</ul>
+
+Stock Photos: 
+<ul>
+  <li>
+   Unsplash.com (https://unsplash.com)
+  </li>
+</ul>
+
+JavaScript Files:
+<ul>
+  <li>
+    Animate On Scroll (https://michalsnik.github.io/aos/)
+  </li>
+</ul>
