@@ -64,6 +64,9 @@ ul {
 }
 
 /* <-- NAVBAR STYLING --> */
+.custom-font {
+  font-family: 'Open Sans', sans-serif;
+}
 .navbar a {
   font-size: 1.3rem;
   color: white;

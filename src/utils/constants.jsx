@@ -35,12 +35,12 @@ export const skills = [
   {
     id: 4,
     text: "React",
-    level: "Proficiency",
+    level: "Familiarity",
   },
   {
     id: 5,
     text: "React Native",
-    level: "Familariy",
+    level: "Familiarity",
   },
   {
     id: 6,
@@ -54,12 +54,12 @@ export const skills = [
   },
   {
     id: 8,
-    text: "R",
+    text: "SAP",
     level: "Entry-level",
   },
   {
     id: 9,
-    text: "MySQL",
+    text: "Smart Edit",
     level: "Entry-level",
   },
 ];

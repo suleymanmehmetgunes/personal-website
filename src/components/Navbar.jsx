@@ -24,7 +24,7 @@ const Navbar = () => {
           <ul className="navbar-nav">
             {links.map((link) => {
               return (
-                <li class="nav-item active py-1 text-end ps-4" key={link.id}>
+                <li class="nav-item active py-1 text-end ps-4 custom-font" key={link.id}>
                   <NavLink exact to={link.url}>
                     {link.text}
                   </NavLink>
